@@ -11,7 +11,7 @@ To run this NUnit project, ensure you have the following prerequisites installed
 - NUnit Framework
 - Selenium Chrome Driver
 
-- How To Install
+## How To Install
 - Clone the project
 - Open project solution in Visual Studio or your preferred IDE
 - Open terminal in project directory
