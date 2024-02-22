@@ -7,7 +7,7 @@ This test suite, developed in C# using Selenium and NUnit, meticulously verifies
 To run this NUnit project, ensure you have the following prerequisites installed:
 - .NET Framework
 - Visual Studio
-- Selenium WebDriver
+- Selenium
 - NUnit Framework
 - Selenium Chrome Driver
 
